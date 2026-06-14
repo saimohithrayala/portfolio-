@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { AnimatePresence, motion } from "framer-motion";
-import IntroVideo, { shouldShowIntro } from "./components/introVideo";
+import IntroVideo, { shouldShowIntro } from "./components/IntroVideo";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";

@@ -18,7 +18,7 @@ const channels = [
     icon: FileDown,
     label: "Resume",
     value: "Download PDF",
-    href: "/resume.pdf",
+    href: "/assets/Rayala_Sai_Mohith_Resume.pdf",
   },
 ];
 
